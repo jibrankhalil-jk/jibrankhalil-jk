@@ -6,7 +6,6 @@
 ## I'm a Student, Developer, and Teacher!!
 
 - 🔭 I’m making coding videos on youtube.
-- 🌱 I’m currently learning Flutter and everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and i provide free projects.
