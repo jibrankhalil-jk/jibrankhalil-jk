@@ -5,9 +5,11 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 I’m making coding videos on youtube.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+<!-- - 🔭 I’m making coding videos on youtube. -->
+<!-- - 👯 I’m looking to collaborate with other content creators -->
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- Learning more and more stuf
+- ...
 - ⚡ Fun fact: I love to code and i provide free projects.
 
 <!-- 
