@@ -5,20 +5,10 @@
   <h1 align="start"> About </h1>
 <p h2 align="start">
 
-Welcome, I'm Jibran Khalil.
-
-I am a full-stack developer and my field is mobile app development.
-
-● Since 2019, I have been working professionally in the field of mobile development.
-
-● I have experienced during this time
-Native programming for Android (with java).
-
-● I have experienced C# for mobile app development with Xamarine.
-
-● I have been working professionally with Flutter Cross Framework since late 2019 (from flutter version v1.9.1).
-
-● During all this time, I have had experience in mobile programming in various industries, such as: banking / providing online home services / online grocery chain stores.
+- 👋 Hi, I’m jibrankhalil
+- 👀 I’m interested in Programming and technology..
+- 🌱 I’m currently learning Full Stack Developement..
+- 💞️ I’m looking to collaborate on Projects...
 
  <br />
 <p align="start">
