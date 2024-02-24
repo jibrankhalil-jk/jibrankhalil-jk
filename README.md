@@ -1,4 +1,4 @@
-![Jibran Khalil](/bg.jpg)
+![Jibran Khalil](/bg.png)
 
  <br />
 <p align="start">
