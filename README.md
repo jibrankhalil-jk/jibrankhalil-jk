@@ -7,8 +7,9 @@
 
 - 👋 Hi, I’m jibrankhalil
 - 👀 I’m interested in Programming and technology..
-- 🌱 I’m currently learning Full Stack Developement..
+- 🌱 I’m currently learning MERN , MEAN , Full Stack Developement..
 - 💞️ I’m looking to collaborate on Projects...
+- Connect, Learn, and Grow Together
 
  <br />
 <p align="start">
@@ -16,40 +17,44 @@
 <p h2 align="start">
  
  <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
+ <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
  </a>
  <a href="mailto:dev.jibrankhalil@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
+ <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
  </a>
  <a href="https://github.com/jibrankhalil-jk/">
-  <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
+ <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
  </a>
  <a href="https://jibrankhalil-jk.github.io/">
-  <img alt="Website" src="https://img.shields.io/badge/Website-150458.svg?style=flat-squar&logo=GoogleChrome&logoColor=white"/>
+ <img alt="Website" src="https://img.shields.io/badge/Website-150458.svg?style=flat-squar&logo=GoogleChrome&logoColor=white"/>
  </a>
  
  <br />
-<p align="start">
-  <h1 align="start"> Skills </h1>
-<p h2 align="start">
+ <p align="start">
+ <h1 align="start"> Skills </h1>
+ <p h2 align="start">
 
 - #### Programming Languages :
 
-  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-squar&logo=Python&logoColor=white"/> 
   <img alt="C" src="https://img.shields.io/badge/C-blue?style=flat-squar&logo=c&logoColor=white"/> 
   <img alt="C++" src="https://img.shields.io/badge/C++-darkblue?style=flat-squar&logo=cplusplus&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-blue?style=flat-squar&logo=dart&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=flat-squar&logo=Python&logoColor=white"/> 
   <img alt="Java" src="https://img.shields.io/badge/java-bc0b19?style=flat-squar&logo=openjdk&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-yellow.svg?style=flat-squar&logo=javascript&logoColor=white"/>
-
-  <img alt="Html" src="https://img.shields.io/badge/html-orange?style=flat-squar&logo=html5&logoColor=white"/>   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-squar&logo=Bootstrap&logoColor=white"/>
+  <br>
+  <img alt="Html" src="https://img.shields.io/badge/html-orange?style=flat-squar&logo=html5&logoColor=white"/>
   <img alt="Css" src="https://img.shields.io/badge/Css-075898?style=flat-squar&logo=Css3&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-squar&logo=Bootstrap&logoColor=white"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-075898?style=flat-squar&logo=Tailwindcss&logoColor=white"/>
+  
+
 
 - #### Framework :
 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-0175C2?style=flat-squar&logo=Flutter&logoColor=white">
   <img alt="Rect Js" src="https://img.shields.io/badge/React Js-0175C2?style=flat-squar&logo=react&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-075898?style=flat-squar&logo=Django">
 
 - #### Databases:
 
@@ -121,39 +126,11 @@
   <img alt="Leadership" src="https://img.shields.io/badge/Leadership-02569B.svg?style=flat-squar"/>
   <img alt="Time management" src="https://img.shields.io/badge/Time management-02569B.svg?style=flat-squar"/>
 
-<!-- <br />
- <p align="start">
-   <h1 align="start"> Packages/Libraries </h1>
- <p h2 align="start">
-
-<p> 👑 Owner
- <a href="https://pub.dev/packages/">
-  <img alt="Flutter Glass" src="https://img.shields.io/badge/Flutter Glass-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="flutter_glass" src="https://img.shields.io/pub/points/flutter_glass?logo=dart&label=points"/>
-  <img alt="flutter_glass" src="https://img.shields.io/pub/popularity/flutter_glass?logo=dart"/>
-  <img alt="flutter_glass" src="https://img.shields.io/pub/likes/flutter_glass?logo=dart"/>
- </a>
-</p>
-<p> 👑 Owner
- <a href="https://pub.dev/packages/flutter_faded_list">
-  <img alt="Flutter Faded List" src="https://img.shields.io/badge/Flutter Faded List-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Flutter Faded List" src="https://img.shields.io/pub/points/flutter_faded_list?logo=dart&label=points"/>
-  <img alt="Flutter Faded List" src="https://img.shields.io/pub/popularity/flutter_faded_list?logo=dart"/>
-  <img alt="Flutter Faded List" src="https://img.shields.io/pub/likes/flutter_faded_list?logo=dart"/>
- </a>
-</p>
-
-<p> 🥈 Contributor
- <a href="https://pub.dev/packages/">
-  <img alt="Flutter Camera Overlay" src="https://img.shields.io/badge/Flutter Camera Overlay-075898.svg?style=flat-squar&logo=Flutter&label=package&labelColor=585858&logoColor=white"/>
-  <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/points/flutter_camera_overlay?logo=dart&label=points"/>
-  <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/popularity/flutter_camera_overlay?logo=dart"/>
-  <img alt="Flutter Camera Overlay" src="https://img.shields.io/pub/likes/flutter_camera_overlay?logo=dart"/> 
- </a>
-</p> -->
 
 <p align="start">
   <h1 align="start"> Stats </h1>
 <p h2 align="start">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jibrankhalil-jk)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk&theme=tokyonight" alt="mystreak"/>
+
