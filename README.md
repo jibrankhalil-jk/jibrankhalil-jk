@@ -1,13 +1,7 @@
-![Jibran Khalil](/bg.png)
 
- <br />
-<p align="start">
-  <h1 align="start"> About </h1>
-<p h2 align="start">
-
-- 👋 Hi, I’m jibrankhalil
+- 👋 Hi, I’m  **jibrankhalil** 
 - 👀 I’m interested in Programming and technology..
-- 🌱 I’m currently learning MERN , MEAN , Full Stack Developement..
+- 🌱 I’m currently learning ~MERN~ , MEAN , Go ...
 - 💞️ I’m looking to collaborate on Projects...
 - Connect, Learn, and Grow Together
 
@@ -15,19 +9,14 @@
 <p align="start">
   <h1 align="start"> How to reach me? </h1>
 <p h2 align="start">
+
+  <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/"> <img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000"/> </a>
+  <a href="mailto:dev.jibrankhalil@gmail.com"> <img src="https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png&color=000000"/> </a>
+  <a href="https://github.com/jibrankhalil-jk/"> <img src="https://img.icons8.com/?size=40&id=106564&format=png&color=000000"/> </a>
+  <a href="https://jibrankhalil-jk.github.io/"> <img src="https://img.icons8.com/?size=40&id=63807&format=png&color=000000"/> </a> 
+
+
  
- <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/">
- <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-squar&logo=linkedin&logoColor=white"/>
- </a>
- <a href="mailto:dev.jibrankhalil@gmail.com">
- <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-squar&logo=gmail&logoColor=white"/>
- </a>
- <a href="https://github.com/jibrankhalil-jk/">
- <img alt="github" src="https://img.shields.io/badge/github-121011.svg?style=flat-squar&logo=github&logoColor=white"/>
- </a>
- <a href="https://jibrankhalil-jk.github.io/">
- <img alt="Website" src="https://img.shields.io/badge/Website-150458.svg?style=flat-squar&logo=GoogleChrome&logoColor=white"/>
- </a>
  
  <br />
  <p align="start">
