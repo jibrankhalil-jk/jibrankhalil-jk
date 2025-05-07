@@ -51,8 +51,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00f.svg?style=flat-squar&logo=mysql&logoColor=white"/>
   <img alt="Realm" src="https://img.shields.io/badge/Realm-ff69b4.svg?style=flat-squar&logo=realm&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange.svg?style=flat-squar&logo=Firebase&logoColor=white"/> 
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-316192.svg?style=flat-squar&logo=sqlite&logoColor=white"/>
-  <img alt="HIVE" src="https://img.shields.io/badge/hive-ED8B00.svg?style=flat-squar&logo=hive&logoColor=white"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-316192.svg?style=flat-squar&logo=sqlite&logoColor=white"/> 
 
 - #### Tools & Services:
 
