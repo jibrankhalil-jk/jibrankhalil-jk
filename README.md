@@ -120,5 +120,11 @@
 <p h2 align="start">
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jibrankhalil-jk/count.svg" />
+</p>
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk&theme=tokyonight" alt="mystreak"/>
 
