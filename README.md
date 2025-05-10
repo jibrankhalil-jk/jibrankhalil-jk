@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m  **jibrankhalil** 
+- 👋 Hi, I’m  **JIBRAN KHALIL** 
 - 👀 I’m interested in Programming and technology..
 - 🌱 I’m currently learning ~MERN~ , MEAN , Go ...
 - 💞️ I’m looking to collaborate on Projects...
