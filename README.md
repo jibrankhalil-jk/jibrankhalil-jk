@@ -47,6 +47,7 @@
 - #### Databases:
 
   <img alt="Mongo DB" src="https://img.shields.io/badge/Mongodb-green.svg?style=flat-squar&logo=Mongodb&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oravle-red.svg?style=flat-squar&logo=Oracle&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-00f.svg?style=flat-squar&logo=mysql&logoColor=white"/>
   <img alt="Realm" src="https://img.shields.io/badge/Realm-ff69b4.svg?style=flat-squar&logo=realm&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-orange.svg?style=flat-squar&logo=Firebase&logoColor=white"/> 
