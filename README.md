@@ -123,5 +123,7 @@
 </p>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk" alt="mystreak"/>
+<div align="center"> 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk" alt="mystreak"/>
+</div>
