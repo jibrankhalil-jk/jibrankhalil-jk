@@ -111,19 +111,15 @@
   <img alt="Leadership" src="https://img.shields.io/badge/Leadership-02569B.svg?style=flat-squar"/>
   <img alt="Time management" src="https://img.shields.io/badge/Time management-02569B.svg?style=flat-squar"/>
 
-
 <p align="start">
   <h1 align="start"> Stats </h1>
 <p h2 align="start">
-
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jibrankhalil-jk/count.svg" />
 </p>
 
-
 <div align="center"> 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk" alt="mystreak"/>
 </div>
