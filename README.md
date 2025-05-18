@@ -32,8 +32,6 @@
   <img alt="Css" src="https://img.shields.io/badge/Css-075898?style=flat-squar&logo=Css3&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=flat-squar&logo=Bootstrap&logoColor=white"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-075898?style=flat-squar&logo=Tailwindcss&logoColor=white"/>
-  
-
 
 - #### Framework :
 
