@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  **JIBRAN KHALIL** 
-- 👀 I’m interested in Programming and technology..
+- 👀 I’m interested in Programming and AI..
 - 🌱 I’m currently learnin Go ,  ...
 - 💞️ I’m looking to collaborate on Projects...
 - Connect, Learn, and Grow Together
