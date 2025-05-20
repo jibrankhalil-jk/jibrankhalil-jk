@@ -9,11 +9,13 @@
   <h1 align="start"> How to reach me? </h1>
 <p h2 align="start">
 
+
   <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/"> <img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000"/> </a>
   <a href="mailto:dev.jibrankhalil@gmail.com"> <img src="https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png&color=000000"/> </a>
   <a href="https://github.com/jibrankhalil-jk/"> <img src="https://img.icons8.com/?size=40&id=106564&format=png&color=000000"/> </a>
   <a href="https://jibrankhalil-jk.github.io/"> <img src="https://img.icons8.com/?size=40&id=63807&format=png&color=000000"/> </a> 
  
+
  <br />
  <p align="start">
  <h1 align="start"> Skills </h1>
