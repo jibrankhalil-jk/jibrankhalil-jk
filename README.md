@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Projects...
 - Connect, Learn, and Grow Together
 
- <br />
+<br/>
+
 <p align="start">
   <h1 align="start"> How to reach me? </h1>
 <p h2 align="start">
