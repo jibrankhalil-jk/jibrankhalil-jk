@@ -16,6 +16,7 @@
   <a href="https://jibrankhalil-jk.github.io/"> <img src="https://img.icons8.com/?size=40&id=63807&format=png&color=000000"/> </a> 
 
  <br />
+
  <p align="start">
  <h1 align="start"> Skills </h1>
  <p h2 align="start">
