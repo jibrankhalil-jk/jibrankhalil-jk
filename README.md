@@ -73,7 +73,6 @@
   <img alt="Firebase Services" src="https://img.shields.io/badge/Firebase Services-EE800F.svg?style=flat-squar&logo=firebase&labelColor=EE800F&logoColor=white"/>
   <img alt="Rive Animation" src="https://img.shields.io/badge/Rive Animation-000000.svg?style=flat-squar&logo=flutter&labelColor=000000"/>
   <img alt="Lottie Animation" src="https://img.shields.io/badge/Lottie Animation-007484.svg?style=flat-squar&logo=android&labelColor=007484&logoColor=white"/>
-  <!-- <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia-000000.svg?style=flat-squar&logo=unity&labelColor=000000&logoColor=white"/> -->
   <img alt="AR Kit" src="https://img.shields.io/badge/AR Kit-757575.svg?style=flat-squar&logo=flutter&labelColor=757575&logoColor=white"/>
 
 - #### State Managments & Dependency Injection:
