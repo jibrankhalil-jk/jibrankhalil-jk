@@ -22,9 +22,7 @@
  <p h2 align="start">
 
 
-
 - #### Programming Languages :
-
 
 
   <img alt="C" src="https://img.shields.io/badge/C-blue?style=flat-squar&logo=c&logoColor=white"/> 
