@@ -35,7 +35,15 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,django,wordpres" />
 <img src="https://skillicons.dev/icons?i=flutter,java" />
 <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,opencv" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase,aws,gcp" />
+<div>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="oracle"
+      height="80"
+    />
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase,aws,gcp" />
+</div>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman," />
 <img src="https://skillicons.dev/icons?i=xd,figma" />
 
