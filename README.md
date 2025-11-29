@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,dart,rust,bash" />
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,arduino,regex,stackoverflow" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /> <img src="https://skillicons.dev/icons?i=materialui,shadcn" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,next,django,wordpres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,react,next,django,wordpres" />
 <img src="https://skillicons.dev/icons?i=flutter,java" />
 <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,opencv" />
 <div>
