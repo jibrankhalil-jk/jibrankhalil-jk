@@ -28,24 +28,20 @@
 <br />
 
 # Technologies I have experience with 👨‍💻
-
+<div>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,dart,rust,bash" />
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,arduino,regex,stackoverflow" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /> <img src="https://skillicons.dev/icons?i=materialui,shadcn" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,nest,react,next,django,wordpres" />
 <img src="https://skillicons.dev/icons?i=flutter,java" />
 <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,opencv" />
-<div>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      height="80"
-    />
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase,aws,gcp" />
-</div>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman," />
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" height="50px" width="50px"  />
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase,aws,gcp" /> 
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,docker,npm" />
 <img src="https://skillicons.dev/icons?i=xd,figma" />
+</div>
 
 <br/>
  
