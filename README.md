@@ -11,18 +11,15 @@
   <a href="https://www.linkedin.com/in/jibran-khalil-8949541b0/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:dev.jibrankhalil@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  &nbsp;
   <a href="https://github.com/jibrankhalil-jk/">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://jibrankhalil-jk.github.io/">
+  <!-- <a href="https://jibrankhalil-jk.github.io/">
     <img src="https://skillicons.dev/icons?i=htmx" alt="Portfolio" />
-  </a>
+  </a> -->
 </p>
 
 <br />
