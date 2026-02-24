@@ -41,8 +41,3 @@
 </div>
 
 <br/>
- 
-<h1 align="start"> Stats </h1>
-<div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jibrankhalil-jk" alt="mystreak"/>
-</div>
